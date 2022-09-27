@@ -48,14 +48,6 @@ img {
   text-decoration: underline;
 }
 
-.skip-content ul li a:link , .skip-content ul li a:visited {
-  text-decoration: none;
-}
-
-.skip-content ul li a:hover , .skip-content ul li a:focus {
-  text-decoration: underline;
-}
-
 form input,
 form textarea {
   display: block;
